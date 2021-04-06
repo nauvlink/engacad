@@ -52,6 +52,7 @@ nav ul li{
 
 nav ul li a{
 	text-decoration: none;
+	transition: 0.4s;
 	color:pink;
 	font-family: "Lucida Console", "Courier New", monospace;
 }
